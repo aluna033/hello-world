@@ -13,3 +13,4 @@ choco install vscode-java -y --no-progress --log-file=$LogPath
 choco install vscode-powershell -y --no-progress --log-file=$LogPath
 choco install vscode-git -y --no-progress --log-file=$LogPath
 choco install sql-server-management-studio -y --no-progress --log-file=$LogPath
+choco install notepadplusplus -y --no-progress --log-file=$LogPath
